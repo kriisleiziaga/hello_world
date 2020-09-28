@@ -1,3 +1,3 @@
 # hello_world
 
-I am the best
+The developers are the best
